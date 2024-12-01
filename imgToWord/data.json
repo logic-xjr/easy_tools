@@ -1,0 +1,13 @@
+[
+  {
+    "code": "code1",
+    "images": [
+      "https://s3.bmp.ovh/imgs/2024/12/01/0923e860b86f5e1e.webp",
+      "https://s3.bmp.ovh/imgs/2024/12/01/836cbd0bcc45f168.jpeg"
+    ]
+  },
+  {
+    "code": "code2",
+    "images": ["https://s3.bmp.ovh/imgs/2024/12/01/0923e860b86f5e1e.webp"]
+  }
+]
